@@ -43,3 +43,7 @@ vignettes/*.pdf
 
 # Secrets directory for secrets
 /secrets/
+
+# Mac file that stores custom icon information
+.DS_Store
+
